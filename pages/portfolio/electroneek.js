@@ -14,7 +14,6 @@ const Electroneek = () => {
 			</Head>
 			<div>
 				{/* <Image src='' alt='electroneek' layout="responsive" objectFit="cover" height={100} width={100} /> */}
-
 				{/* <Hero /> */}
 				{/* <About />
 				<Skills /> */}
