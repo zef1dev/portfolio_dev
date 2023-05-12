@@ -14,6 +14,8 @@ const Electroneek = () => {
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
 			</Head>
 			<div>
+				<Image src='' alt='electroneek' layout="responsive" objectFit="cover" height={100} width={100} />
+
 				{/* <Hero /> */}
 				{/* <About />
 				<Skills /> */}
