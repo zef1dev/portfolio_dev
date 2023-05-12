@@ -1,37 +1,46 @@
 export const projectData = [
-	{
-		id: 1,
-		title: 'Todo List App',
-		description:
-			'A simple Todo List App built with JavaScript. All datas are stored in localstorage. It helps users check list out their plans and tick as they do them.',
-		gitHubLink: 'https://github.com/olawanlejoel/Todo-List-App',
-	},
-	{
-		id: 2,
-		title: 'Books Library App',
-		description:
-			'A simple Book Library App built with JavaScript. It helps readers have a good list of books they are eiter currently reading or have finished reading.',
-		gitHubLink: 'https://github.com/olawanlejoel/Book-Library',
-	},
-	{
-		id: 3,
-		title: 'Quotes Generator',
-		description:
-			'Helps you generates quotes from about 1600 quotes written by different authors . Quotes are automatically copied to your clipboards.',
-		gitHubLink: 'https://github.com/olawanlejoel/random-quote-generator',
-	},
-	{
-		id: 4,
-		title: 'Password Generator',
-		description:
-			'Helps you generates random passwords, you can select what you want your password to entail and also you can copy generated password to clipboard.',
-		gitHubLink: 'https://github.com/olawanlejoel/Password-Generator',
-	},
-	{
-		id: 5,
-		title: 'Twitter UI Clone',
-		description:
-			'Simple Twitter UI clone built with TailwindCSS and Vue Js. This covers only the home page of Twitter UI. This is cool to get started with TailwindCSS as it helps understand basic concepts.',
-		gitHubLink: 'https://github.com/olawanlejoel/TwitterUI-clone',
-	},
+  {
+    id: 1,
+    image: "/images/electroneek.png",
+    title: "Electroneek",
+    description: "Robotic Process Automation ",
+    link: "/portfolio/electroneek/",
+    figmaLink: "https://www.figma.com/file/dtBAV8KaqiYNRnfF6woJT5/ElectroNeek-realize-6.4?type=design&node-id=0-1&t=iswPFwRakYb7xp7A-0",
+    webLink: "https://electroneek.com/",
+	gradient: "navy-blue"
+  },
+  {
+    id: 2,
+    image: "/images/greenshop.png",
+    title: "Greenshop",
+    description:
+      "Online plant shop",
+    link: "/portfolio/electroneek",
+    figmaLink: "",
+    webLink: "",
+	gradient: "green1"
+  },
+  {
+    id: 3,
+    image: "/images/bikepark.png",
+    title: "Bike Park",
+    description:
+      "Bike delivery",
+    link: "",
+    figmaLink: "",
+    webLink: "",
+	gradient: "blue2"
+  },
+  {
+    id: 4,
+    image: "/images/touche.png",
+    title: "Touche",
+    description:
+      "Cosmetic shop",
+    link: "",
+    figmaLink: "",
+    webLink: "",
+	gradient: "blue3"
+  },
+  
 ];

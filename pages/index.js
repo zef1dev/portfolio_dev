@@ -1,10 +1,10 @@
 import Hero from 'src/components/Hero';
 import About from 'src/components/About';
 import Skills from 'src/components/Skills';
-import Projects from 'src/components/Projects';
 import Contact from 'src/components/Contact';
 
 import Head from 'next/head';
+import Portfolio from 'src/components/Portfolio';
 
 const Home = () => {
 	return (
@@ -19,7 +19,7 @@ const Home = () => {
 				<Hero />
 				<About />
 				<Skills />
-				<Projects />
+				<Portfolio />
 				<Contact />
 			</div>
 		</>

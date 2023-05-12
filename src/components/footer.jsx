@@ -4,7 +4,7 @@ const Footer = () => {
             <hr />
             <div className="footer-container">
                 <p>
-                    &copy; {new Date().getFullYear()} Joel's Portfolio
+                    &copy; {new Date().getFullYear()} Kseniia's Portfolio
                 </p>
                 <div className="social_icons">
                     {/* <a
@@ -15,14 +15,14 @@ const Footer = () => {
                     >
                         <i className="fa-brands fa-twitter"></i>
                     </a> */}
-                    <a
-                        href="https://github.com/olawanlejoel"
+                    {/* <a
+                        href=""
                         aria-label="GitHub"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
                         <i className="fa-brands fa-github"></i>
-                    </a>
+                    </a> */}
                     <a
                         href="https://www.linkedin.com/in/kseniia-lysiakova/"
                         aria-label="LinkedIn"

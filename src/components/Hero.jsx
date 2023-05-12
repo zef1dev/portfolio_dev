@@ -3,7 +3,9 @@ import Image from "next/image";
 const Hero = () => {
     return (
         <div className="hero-container">
-            <Image src='/images/profile.jpg' className="profile-img" width={300} height={300} alt="Kseniia's personal headshot" />
+            <div className="header-name">Kseniia's</div>
+            <Image src='/images/kseniia_portfolio.jpg' className="profile-img" width={901} height={591} alt="Kseniia's personal headshot" />
+            <div className="header-portfolio">portfolio</div>            
             <div className="hero-text">
                 <h1>Hey, I'm Kseniia 👋</h1>
                 <p>
@@ -18,22 +20,22 @@ const Hero = () => {
                     >
                         <i className="fa-brands fa-twitter"></i>
                     </a> */}
-                    <a
+                    {/* <a
                         href="https://github.com/olawanlejoel"
                         aria-label="GitHub"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
                         <i className="fa-brands fa-github"></i>
-                    </a>
-                    <a
+                    </a> */}
+                    {/* <a
                         href="https://www.linkedin.com/in/kseniia-lysiakova/"
                         aria-label="LinkedIn"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
                         <i className="fa-brands fa-linkedin"></i>
-                    </a>
+                    </a> */}
                 </div>
             </div>
         </div>
