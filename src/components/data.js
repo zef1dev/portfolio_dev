@@ -4,7 +4,7 @@ export const projectData = [
     image: "/images/electroneek.png",
     title: "Electroneek",
     description: "Robotic Process Automation ",
-    link: "/portfolio/electroneek/",
+    link: "https://www.figma.com/file/yRnmX3xSyOzyn0JBkqdek3/Greenshop?type=design&node-id=0-1&t=YLALsVlm1NChWvHT-0",
     figmaLink: "https://www.figma.com/file/dtBAV8KaqiYNRnfF6woJT5/ElectroNeek-realize-6.4?type=design&node-id=0-1&t=iswPFwRakYb7xp7A-0",
     webLink: "https://electroneek.com/",
 	gradient: "navy-blue"
@@ -15,8 +15,8 @@ export const projectData = [
     title: "Greenshop",
     description:
       "Online plant shop",
-    link: "/portfolio/electroneek",
-    figmaLink: "",
+    link: "https://www.figma.com/file/yRnmX3xSyOzyn0JBkqdek3/Greenshop?type=design&node-id=0-1&t=YLALsVlm1NChWvHT-0k",
+    figmaLink: "https://www.figma.com/file/yRnmX3xSyOzyn0JBkqdek3/Greenshop?type=design&node-id=0-1&t=YLALsVlm1NChWvHT-0",
     webLink: "",
 	gradient: "green1"
   },
@@ -26,8 +26,8 @@ export const projectData = [
     title: "Bike Park",
     description:
       "Bike delivery",
-    link: "",
-    figmaLink: "",
+    link: "https://www.figma.com/file/0tzw4Tiop19g7qzAedbGNm/Bike-park?type=design&node-id=742-3847&t=YLALsVlm1NChWvHT-0",
+    figmaLink: "https://www.figma.com/file/0tzw4Tiop19g7qzAedbGNm/Bike-park?type=design&node-id=742-3847&t=YLALsVlm1NChWvHT-0",
     webLink: "",
 	gradient: "blue2"
   },
@@ -37,8 +37,8 @@ export const projectData = [
     title: "Touche",
     description:
       "Cosmetic shop",
-    link: "",
-    figmaLink: "",
+    link: "https://www.figma.com/file/EzBrEJxS38ihIOEhhUrjso/cosmetic?type=design&t=YLALsVlm1NChWvHT-0",
+    figmaLink: "https://www.figma.com/file/EzBrEJxS38ihIOEhhUrjso/cosmetic?type=design&t=YLALsVlm1NChWvHT-0",
     webLink: "",
 	gradient: "blue3"
   },
