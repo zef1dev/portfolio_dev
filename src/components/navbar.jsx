@@ -8,7 +8,7 @@ const Navbar = () => {
                     Kseniia's Portfolio
                 </Link>
             </div> */}
-            <a href="https://docs.google.com/document/d/1LdfcIyMGGdPgtWxnfvEp2GVLo3Fx4AVCBQCFM-p828M/edit?usp=sharing" className="cta-btn">my CV</a>
+            <a href="https://drive.google.com/file/d/1SVrPhW9K9nRkPUO3mQwxFHW1t7w38mzw/view?usp=drive_link" target="_blank" className="cta-btn">my CV</a>
         </div>
     )
 }
