@@ -6,7 +6,7 @@ const About = () => {
 
             <div className="flex-about">
                 <div className="about-img">
-                    <Image src='/images/about.jpeg' className="profile-img" width={368} height={437} alt="Joe and animal relaxing and having fun" />
+                    <Image src='/images/about.jpeg' className="profile-img" width={368} height={437} alt="Kseniya" />
                 </div>
 
                 <div className="about-text">
@@ -23,17 +23,17 @@ const About = () => {
                     </p>
                 </div>
                 <div className="social-icons">
-                    <a
+                    {/* <a
                         href="https://twitter.com/olawanle_joel"
                         aria-label="Twitter"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
                         <span className="iconify" data-icon="mdi:twitter" data-width="24"></span>
-                    </a>
+                    </a> */}
 
                     <a
-                        href="https://github.com/olawanlejoel"
+                        href="https://github.com/zef1dev"
                         aria-label="GitHub"
                         target="_blank"
                         rel="noopener noreferrer"
@@ -42,7 +42,7 @@ const About = () => {
                     </a>
 
                     <a
-                        href="https://www.linkedin.com/in/kseniia-lysiakova/"
+                        href="https://www.linkedin.com/in/kseniya-lysiakova/"
                         aria-label="LinkedIn"
                         target="_blank"
                         rel="noopener noreferrer"
